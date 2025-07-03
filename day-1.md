@@ -13,7 +13,7 @@ Today, I learned about
 
 *Basic Commands:*
 
-- Bash Commands `cd, ls, dir`etc.
+- Bash Commands `cd, ls, dir`, etc.
 - Bash List `Is`
 - Bash Change Dir `cd`
 - Bash Print `dir`
@@ -27,7 +27,7 @@ Today, I learned about
 - Bash Manual `man`
 - Bash Alias `alias`
 
-### What Difficulty did I face?
+### What Difficulty did I encounter?
 
 *Changing the directory by moving from the C: drive to the D: drive*
 #
