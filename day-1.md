@@ -1,7 +1,7 @@
 ![Bash Logo](Images/bash.png)
 # Learn Bash - *July 2, 2025*
 
-### What I did today?
+### What did I do today?
 
 Today, I learned about
 
@@ -13,7 +13,7 @@ Today, I learned about
 
 *Basic Commands:*
 
-- Bash Commands `cd ls dir`etc.
+- Bash Commands `cd, ls, dir`etc.
 - Bash List `Is`
 - Bash Change Dir `cd`
 - Bash Print `dir`
@@ -27,8 +27,8 @@ Today, I learned about
 - Bash Manual `man`
 - Bash Alias `alias`
 
-### What Difficuty did I face?
+### What Difficulty did I face?
 
-*Changing the directory by moving form C: drive to D:*
+*Changing the directory by moving from the C: drive to the D: drive*
 #
 **Dive To The [Next Page](day-2.md) To Know More**
