@@ -12,7 +12,7 @@ Today, I learned about
 - Bash Pattern Scan `awk`
 - Bash Stream Editor `sed`
 
-### What Difficulty did I face?
+### What Difficulty did I encounter?
 
 *Changing the directory by moving from the C: drive to the D: drive*
 #
